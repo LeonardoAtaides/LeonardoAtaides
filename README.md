@@ -108,15 +108,6 @@ Me chamo Leonardo Ataídes, estudante da UCB - Ciências da Computação. Sou ap
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
 />
 
-<br/>
-<br/>
 
-### 📊 Estatísticas
-
-### 📊 Estatísticas
-
-<p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-</p>
 
 
