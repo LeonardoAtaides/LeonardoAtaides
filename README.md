@@ -5,7 +5,7 @@
 Me chamo Leonardo Ataídes, estudante da UCB - Ciências da Computação. Sou apaixonado por tecnologia e compartilho meus projetos através do meu Linkedln "[Leonardo Ataídes](https://www.linkedin.com/in/leonardo-ataides-a87a04273/)"
 
 
-### 🤖 Linguagens e Tecnologias
+### ⚡ TECNOLOGIAS
 
 <img 
     align="left" 
@@ -107,6 +107,21 @@ Me chamo Leonardo Ataídes, estudante da UCB - Ciências da Computação. Sou ap
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
 />
+
+
+### 🌐 REDES SOCIAIS
+
+<div>
+  <a href="https://www.instagram.com/soutozk/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/leonardo-ataides-a87a04273/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/LeonardoAtaides" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
 
 
 
