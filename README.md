@@ -108,7 +108,7 @@ Me chamo Leonardo Ataídes, estudante da UCB - Ciências da Computação. Sou ap
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
 />
 
-
+<br>
 ### 🌐 REDES SOCIAIS
 
 <div>
