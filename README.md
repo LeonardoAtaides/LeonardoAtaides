@@ -2,7 +2,8 @@
 
 **`< WEB DEVELOPER />`**
 
-Me chamo Leonardo Ataídes, estudante da UCB - Ciências da Computação. Sou apaixonado por tecnologia e compartilho meus projetos através do meu Linkedln "[Leonardo Ataídes](https://www.linkedin.com/in/leonardo-ataides-a87a04273/)"
+Me chamo Leonardo Ataídes, estudante da UCB - Ciências da Computação.
+Sou apaixonado por tecnologia, desenvolvimento e design. Transformar ideias em projetos reais me motiva, e estou sempre em busca constante de aprendizado e evolução para aprimorar meus conhecimentos.
 
 
 ### 🚀 TECNOLOGIAS
