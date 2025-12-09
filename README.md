@@ -95,7 +95,7 @@ Me chamo **Leonardo Ataídes**, estudante da UCB - Ciências da Computação.Sou
 ### 🌐 REDES SOCIAIS
 
 <div>
-  <a href="https://www.instagram.com/soutozk/" target="_blank">
+  <a href="https://www.instagram.com/_.ataides._/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/leonardo-ataides-a87a04273/" target="_blank">
