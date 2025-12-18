@@ -107,5 +107,12 @@ Me chamo **Leonardo Ataídes**, estudante da UCB - Ciências da Computação.Sou
 </div>
 
 
+### 📊 Estatísticas 
+
+![Ataídes Dev stats](https://github-readme-stats.vercel.app/api?username=leonardoataides&show_icons=true&theme=dark)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leonardoataides&theme=dark)](https://git.io/streak-stats)
+
+---
+
 
 
